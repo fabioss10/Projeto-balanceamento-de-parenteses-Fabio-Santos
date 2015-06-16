@@ -1,0 +1,6 @@
+c:\users\fabio\documents\visual studio 2010\Projects\Fabio_Santos\bin\Fabio_Santos.dll
+c:\users\fabio\documents\visual studio 2010\Projects\Fabio_Santos\bin\Fabio_Santos.pdb
+c:\users\fabio\documents\visual studio 2010\Projects\Fabio_Santos\bin\EntityFramework.dll
+c:\users\fabio\documents\visual studio 2010\Projects\Fabio_Santos\bin\EntityFramework.xml
+c:\users\fabio\documents\visual studio 2010\Projects\Fabio_Santos\obj\Release\Fabio_Santos.dll
+c:\users\fabio\documents\visual studio 2010\Projects\Fabio_Santos\obj\Release\Fabio_Santos.pdb
